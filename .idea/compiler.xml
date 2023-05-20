@@ -8,17 +8,21 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="item-service" />
-        <module name="getway" />
         <module name="user-service" />
         <module name="order-service" />
         <module name="feign-api" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="gateway" target="11" />
+      <module name="getway" target="19" />
+    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="feign-api" options="-parameters" />
-      <module name="getway" options="-parameters" />
+      <module name="gateway" options="-parameters" />
+      <module name="getway" options="" />
       <module name="item-service" options="-parameters" />
       <module name="order-service" options="-parameters" />
       <module name="user-service" options="-parameters" />

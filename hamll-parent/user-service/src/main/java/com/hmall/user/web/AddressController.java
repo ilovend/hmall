@@ -19,8 +19,4 @@ public class AddressController {
     @Autowired
     private IAddressService addressService;
 
-    @GetMapping("/1")
-    public void test(){
-        System.out.println("===================================");
-    }
 }
