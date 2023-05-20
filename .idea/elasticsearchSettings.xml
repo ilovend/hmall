@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ElasticsearchConfiguration">
+    <option name="clusterConfigurations">
+      <map>
+        <entry key="cfddd038-e910-467a-a674-06c0b95522fe">
+          <value>
+            <X>
+              <option name="id" value="cfddd038-e910-467a-a674-06c0b95522fe" />
+              <option name="label" value="@localhost" />
+              <option name="url" value="http://45.77.135.239:9200" />
+              <option name="version" value="1" />
+            </X>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="requestHistory">
+      <map>
+        <entry key="cfddd038-e910-467a-a674-06c0b95522fe" value="[{&quot;path&quot;:&quot;/.kibana/_search&quot;,&quot;body&quot;:&quot;{\n  \&quot;from\&quot;: 0,\n  \&quot;size\&quot;: 50,\n  \&quot;query\&quot;: {\n    \&quot;match_all\&quot;: {}\n  }\n}&quot;,&quot;method&quot;:&quot;GET&quot;},{&quot;path&quot;:&quot;/.kibana_7.12.1_001/_search&quot;,&quot;body&quot;:&quot;{\n  \&quot;from\&quot;: 0,\n  \&quot;size\&quot;: 50,\n  \&quot;query\&quot;: {\n    \&quot;match_all\&quot;: {}\n  }\n}&quot;,&quot;method&quot;:&quot;GET&quot;},{&quot;path&quot;:&quot;/.kibana_task_manager_7.12.1_001/_search&quot;,&quot;body&quot;:&quot;{\n  \&quot;from\&quot;: 0,\n  \&quot;size\&quot;: 50,\n  \&quot;query\&quot;: {\n    \&quot;match_all\&quot;: {}\n  }\n}&quot;,&quot;method&quot;:&quot;GET&quot;},{&quot;path&quot;:&quot;/.tasks/_search&quot;,&quot;body&quot;:&quot;{\n  \&quot;from\&quot;: 0,\n  \&quot;size\&quot;: 50,\n  \&quot;query\&quot;: {\n    \&quot;match_all\&quot;: {}\n  }\n}&quot;,&quot;method&quot;:&quot;GET&quot;},{&quot;path&quot;:&quot;/hotel/_search&quot;,&quot;body&quot;:&quot;{\n  \&quot;from\&quot;: 0,\n  \&quot;size\&quot;: 50,\n  \&quot;query\&quot;: {\n    \&quot;match_all\&quot;: {}\n  }\n}&quot;,&quot;method&quot;:&quot;GET&quot;},{&quot;path&quot;:&quot;/_nodes/YzhPEsXKSA6L0-jlZoYhXQ&quot;,&quot;body&quot;:&quot;&quot;,&quot;method&quot;:&quot;GET&quot;},{&quot;path&quot;:&quot;/hotel/_search&quot;,&quot;body&quot;:&quot;{\n  \&quot;from\&quot;: 0,\n  \&quot;size\&quot;: 50,\n  \&quot;query\&quot;: {\n    \&quot;match_all\&quot;: {}\n  }\n}&quot;,&quot;method&quot;:&quot;GET&quot;},{&quot;path&quot;:&quot;/.tasks/_search&quot;,&quot;body&quot;:&quot;{\n  \&quot;from\&quot;: 0,\n  \&quot;size\&quot;: 50,\n  \&quot;query\&quot;: {\n    \&quot;match_all\&quot;: {}\n  }\n}&quot;,&quot;method&quot;:&quot;GET&quot;},{&quot;path&quot;:&quot;/hotel/_search&quot;,&quot;body&quot;:&quot;{\n  \&quot;from\&quot;: 0,\n  \&quot;size\&quot;: 50,\n  \&quot;query\&quot;: {\n    \&quot;match_all\&quot;: {}\n  }\n}&quot;,&quot;method&quot;:&quot;GET&quot;},{&quot;path&quot;:&quot;/ztp/_search&quot;,&quot;body&quot;:&quot;{\n  \&quot;from\&quot;: 0,\n  \&quot;size\&quot;: 50,\n  \&quot;query\&quot;: {\n    \&quot;match_all\&quot;: {}\n  }\n}&quot;,&quot;method&quot;:&quot;GET&quot;},{&quot;path&quot;:&quot;/hotel/_search&quot;,&quot;body&quot;:&quot;{\n  \&quot;from\&quot;: 0,\n  \&quot;size\&quot;: 50,\n  \&quot;query\&quot;: {\n    \&quot;match_all\&quot;: {}\n  }\n}&quot;,&quot;method&quot;:&quot;GET&quot;},{&quot;path&quot;:&quot;/hotel/_stats&quot;,&quot;body&quot;:&quot;&quot;,&quot;method&quot;:&quot;GET&quot;},{&quot;path&quot;:&quot;/hotel&quot;,&quot;body&quot;:&quot;&quot;,&quot;method&quot;:&quot;GET&quot;},{&quot;path&quot;:&quot;/hotel/_search&quot;,&quot;body&quot;:&quot;{\n  \&quot;from\&quot;: 0,\n  \&quot;size\&quot;: 50,\n  \&quot;query\&quot;: {\n    \&quot;match_all\&quot;: {}\n  }\n}&quot;,&quot;method&quot;:&quot;GET&quot;}]" />
+      </map>
+    </option>
+    <option name="version" value="1" />
+  </component>
+</project>
