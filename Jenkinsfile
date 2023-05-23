@@ -1,15 +1,11 @@
 pipeline {
   agent any
   stages {
-    stage('Build') {
+    stage('Initialize') {
       steps {
-        sh 'mvn clean install'
+        echo 'this is a mini pipeline'
       }
     }
-    stage('Deploy'){
-      steps{
-        echo "this is a deploying ...."
-      }
-    }
+
   }
 }
