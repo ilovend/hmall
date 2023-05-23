@@ -6,6 +6,10 @@ pipeline {
         sh 'mvn clean install'
       }
     }
-
+    stage('Deploy'){
+      steps{
+        echo "this is a deploying ...."
+      }
+    }
   }
 }
